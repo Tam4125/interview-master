@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///D:/Android%20Projects/interview-practice/app/%28root%29/interview/layout.tsx"],"sourcesContent":["import React, {ReactNode} from 'react'\r\n\r\nconst Layout = ({children} : {children: ReactNode}) => {\r\n    return (\r\n        <div>\r\n            {children}\r\n        </div>\r\n    )\r\n}\r\nexport default Layout\r\n"],"names":[],"mappings":";;;;;;AAEA,MAAM,SAAS,CAAC,EAAC,QAAQ,EAAyB;IAC9C,qBACI,8OAAC;kBACI;;;;;;AAGb;uCACe","debugId":null}}]
+}

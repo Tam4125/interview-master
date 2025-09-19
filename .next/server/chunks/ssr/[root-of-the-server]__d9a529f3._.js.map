@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 11, "column": 0}, "map": {"version":3,"sources":["file:///D:/Android%20Projects/interview-practice/app/page.tsx"],"sourcesContent":["import React from 'react'\n\nconst Home = () => {\n    return (\n        <div className=\"mt-10\">\n            <h1 className=\"text-center font-bold text-4xl\">\n                PrepWise\n            </h1>\n            <h3 className=\"text-center mt-5 text-xl\">\n                AI-powered platform for mock interview\n            </h3>\n        </div>\n    )\n}\nexport default Home\n"],"names":[],"mappings":";;;;;;AAEA,MAAM,OAAO;IACT,qBACI,8OAAC;QAAI,WAAU;;0BACX,8OAAC;gBAAG,WAAU;0BAAiC;;;;;;0BAG/C,8OAAC;gBAAG,WAAU;0BAA2B;;;;;;;;;;;;AAKrD;uCACe","debugId":null}}]
+}

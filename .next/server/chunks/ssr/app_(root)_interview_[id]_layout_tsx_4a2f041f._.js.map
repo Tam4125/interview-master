@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///D:/Android%20Projects/interview-practice/app/%28root%29/interview/%5Bid%5D/layout.tsx"],"sourcesContent":["import React from 'react'\r\n\r\nconst Layout = () => {\r\n    return (\r\n        <div>Layout</div>\r\n    )\r\n}\r\nexport default Layout\r\n"],"names":[],"mappings":";;;;;;AAEA,MAAM,SAAS;IACX,qBACI,8OAAC;kBAAI;;;;;;AAEb;uCACe","debugId":null}}]
+}

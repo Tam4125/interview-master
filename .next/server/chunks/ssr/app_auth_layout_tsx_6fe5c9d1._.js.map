@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///D:/Android%20Projects/interview-practice/app/auth/layout.tsx"],"sourcesContent":["import React, {ReactNode} from 'react'\n\nconst AuthLayout = ({children}: {children: ReactNode}) => {\n    return (\n        <div >{children}</div>\n    )\n}\nexport default AuthLayout\n"],"names":[],"mappings":";;;;;;AAEA,MAAM,aAAa,CAAC,EAAC,QAAQ,EAAwB;IACjD,qBACI,8OAAC;kBAAM;;;;;;AAEf;uCACe","debugId":null}}]
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///D:/Android%20Projects/interview-practice/app/%28root%29/layout.tsx"],"sourcesContent":["import React, {ReactNode} from 'react'\r\n\r\nconst RootLayout = ({children}: {children: ReactNode}) => {\r\n    return (\r\n        <div className=\"root-layout\">\r\n            <nav>\r\n                <Link href=\"/\" className=\"flex items-center gap-2\">\r\n                    <Image src=\"/logo.svg\" alt=\"logo\" width={38} height={32} />\r\n                </Link>\r\n            </nav>\r\n        </div>\r\n    )\r\n}\r\nexport default RootLayout\r\n"],"names":[],"mappings":";;;;;;AAEA,MAAM,aAAa,CAAC,EAAC,QAAQ,EAAwB;IACjD,qBACI,8OAAC;QAAI,WAAU;kBACX,cAAA,8OAAC;sBACG,cAAA,8OAAC;gBAAK,MAAK;gBAAI,WAAU;0BACrB,cAAA,8OAAC;oBAAM,KAAI;oBAAY,KAAI;oBAAO,OAAO;oBAAI,QAAQ;;;;;;;;;;;;;;;;;;;;;AAKzE;uCACe","debugId":null}}]
+}

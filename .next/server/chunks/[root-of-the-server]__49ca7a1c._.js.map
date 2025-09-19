@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 37, "column": 0}, "map": {"version":3,"sources":["file:///D:/Android%20Projects/interview-practice/app/api/vapi/generate/route.ts"],"sourcesContent":["export async function GET() {\r\n    return Response.json({success: true, message: 'Welcome to the API!'}, {status: 200});\r\n}"],"names":[],"mappings":";;;;AAAO,eAAe;IAClB,OAAO,SAAS,IAAI,CAAC;QAAC,SAAS;QAAM,SAAS;IAAqB,GAAG;QAAC,QAAQ;IAAG;AACtF","debugId":null}}]
+}
